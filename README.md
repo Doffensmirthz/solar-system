@@ -33,7 +33,7 @@ This project is a simple solar system simulation built using **Three.js**. It fe
 ## Contributions / Assets
 
 ### Spaceship
-- Model: [Low-Poly Spaceship](https://free3d.com/3d-model/low-poly-spaceship-37605.html?dd_referrer=)
+- Model: [Low-Poly Spaceship](https://free3d.com/3d-model/low-poly-spaceship-37605.html)
 
 ### Textures
 - Planet textures: [NASA 3D Resources](https://github.com/nasa/NASA-3D-Resources/tree/master/Images%20and%20Textures)
