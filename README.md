@@ -44,4 +44,4 @@ This project is a simple solar system simulation built using **Three.js**. It fe
 2. Install dependencies (Three.js, OrbitControls, OBJLoader, MTLLoader).
 3. Open `index.html` in a modern browser (or serve via local HTTP server for CORS).
 4. Fly around the solar system using the spaceship controls or orbit with the camera.
-![Demo](assets/demo.gif)
+# [Ver demo](resources/preview.mp4)
